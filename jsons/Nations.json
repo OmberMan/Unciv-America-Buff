@@ -1,1 +1,32 @@
-Kill me
+
+[
+    {
+        "name": "America",
+        "leaderName": "George Washington",
+        "adjective": ["American"],
+        "preferredVictoryType": "Scientific",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+        "attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+        "defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+        "introduction": "The people of the United States of America welcome you.",
+        "neutralHello": "How'd you do?",
+        "hateHello": "Your people will end your tyranny soon enough.",
+        "tradeRequest": "I'm gonna give it to you straight, pal. You import this from us and embargo the other guy. We give you six Good Boy Points. Ten GBP gets you a missile. Zero GBP spawns rebels near your borders. No amount of GBP can be exchanged to compensate for your previous deal. Sounds good?",
+        "outerColor": [28,51,119],
+        "innerColor": [255,255,255],
+        "favoredReligion": "Christianity",
+        "uniqueName": "Manifest Destiny",
+        "uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]", "[-20]% Culture cost of natural border growth [in all non-occupied cities]", "[+20]% Culture cost of natural border growth [in all non-occupied cities] <on foreign continents>"],
+        "cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
+            "Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
+            "Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
+            "Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
+            "Spokane","Jacksonville","Savannah","Charleston","San Antonio","Birmingham","Anchorage","Carson City","Reno",
+            "Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Ivanski", "Virginia", "Scarlett", "Barbara"]
+    },
+]
