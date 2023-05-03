@@ -20,12 +20,12 @@
         "innerColor": [255,255,255],
         "favoredReligion": "Christianity",
         "uniqueName": "Manifest Destiny",
-        "uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]", "[-20]% Culture cost of natural border growth [in all non-occupied cities]", "[+20]% Culture cost of natural border growth [in all non-occupied cities] <on foreign continents>"],
-        "cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
+        "uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]","[+3 Gold] from every [Merchant] <during a Golden Age>","[+2 Culture] from every [Artist] <during a Golden Age>","[+2 Production] from every [Engineer] <during a Golden Age>","[+2 Science] from every [Scientist] <during a Golden Age>"],
+        "cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston","Reno"
             "Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
             "Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
             "Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
-            "Spokane","Jacksonville","Savannah","Charleston","San Antonio","Birmingham","Anchorage","Carson City","Reno",
+            "Spokane","Jacksonville","Savannah","Charleston","San Antonio","Birmingham","Anchorage","Carson City",
             "Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"],
         "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Ivanski", "Virginia", "Scarlett", "Barbara"]
     },
